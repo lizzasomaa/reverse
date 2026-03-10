@@ -1,4 +1,4 @@
-## Файл crackme из bin1
+## Файл crackme из bin1 (crackme12.exe)
 
 ### Решение
 
@@ -272,7 +272,7 @@ Hex-дамп после вызова:
 
 ![](images/Pasted%20image%2020260310222458.png)
 
-## Файл crackme из bin2
+## Файл crackme из bin2 (crackme12.e_xe)
 
 ### Решение
 
